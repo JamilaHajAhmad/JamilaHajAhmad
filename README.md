@@ -74,12 +74,15 @@
 
 ### Github Statistics 📈
 <div align="center">
-	<img height=155.7 src="https://github-readme-stats.vercel.app/api/top-langs?username=JamilaHajAhmad&layout=compact&theme=light&hide_border=false" />
+	<img height=155.7 src="https://github-readme-stats.vercel.app/api/top-langs?username=JamilaHajAhmad&layout=compact&theme=dark&hide_border=true" />
     	&ensp;
-  	<img height=171 src="https://github-readme-stats.vercel.app/api?username=JamilaHajAhmad&theme=light&hide_border=false" />
+  	<img width=545 src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JamilaHajAhmad&theme=dark&hide_border=true" />
+  	<img height=171 src="https://github-readme-stats.vercel.app/api?username=JamilaHajAhmad&theme=dark&hide_border=true" />
     	&ensp;
-  	<img height=171 src="https://github-readme-streak-stats.herokuapp.com/?user=JamilaHajAhmad&theme=light&hide_border=false" />
+  	<img height=171 src="https://github-readme-streak-stats.herokuapp.com/?user=JamilaHajAhmad&theme=dark&hide_border=true" />
 </div>
+
+<hr/>
 
 ### Problem Solving & Competitive Programming Statistics 📈
 <div align="center">
@@ -87,8 +90,5 @@
 	<img height=300 src="https://leetcode.card.workers.dev/Jamila03?theme=Dark&font=baloo&extension=activity&border_color=#FFF" />
 </div>
 
-<hr/>
 
-<div align="center">
-	<img src="https://github.com/JeffersonRPM/JeffersonRPM/blob/output/github-contribution-grid-snake.svg">
-</div>
+
