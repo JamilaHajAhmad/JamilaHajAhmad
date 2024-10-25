@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi,%20I'm%20Jamila%20HajAhmad👋&fontSize=45&animation=fadeIn">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jamilahajahmad&label=Profile%20views&color=0e75b6&style=flat" alt="jamilahajahmad" /> </p>
-[![committers.top badge](https://user-badge.committers.top/palestine/JamilaHajAhmad.svg)](https://user-badge.committers.top/palestine/JamilaHajAhmad)
+[![committers.top badge](https://user-badge.committers.top/palestine/JamilaHajAhmad.svg)]
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jamilahajahmad" alt="jamilahajahmad" /></a> </p>
 
