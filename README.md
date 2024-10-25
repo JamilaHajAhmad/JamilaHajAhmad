@@ -1,5 +1,54 @@
-<img src="https://camo.githubusercontent.com/c01ce63b61cb98b39488f49adf6ed038aab6e53be11327b7f45622d0c10b241a/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3232322673656374696f6e3d68656164657226746578743d48692c25323049276d2532304d6f68616d6d616425323041626f686173616e2125323025463025394625393125384226666f6e7453697a653d3435" alt="Header" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;height=222&amp;section=header&amp;text=Jamila HajAhmad;fontSize=45" style="max-width: 100%;">
-<h3 align="center">Software Engineer | Front-end Developer</h3>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="z-index:1;position:relative" width="854" height="222" viewBox="0 0 854 222">
+                <style>
+                        .text {
+						font-size: 45px;
+						font-weight: 700;
+						font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;
+					}
+					.desc {
+						font-size: 20px;
+						font-weight: 500;
+						font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;
+					}
+                        
+                     </style>
+                    <defs>
+              <linearGradient id="linear" x1="0%" y1="0%" x2="100%" y2="0%">
+                <stop offset="0%" stop-color="#43cea2"/><stop offset="100%" stop-color="#185a9d"/>
+              </linearGradient>
+            </defs>
+         
+    <g transform="translate(427, 111) scale(1, 1) translate(-427, -111)">
+      <path d="" fill="url(#linear)" opacity="0.4" >
+        <animate
+            attributeName="d"
+            dur="20s"
+            repeatCount="indefinite"
+            keyTimes="0;0.333;0.667;1"
+            calcmod="spline"
+            keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1"
+            begin="0s"
+            values="M0 0L 0 142Q 213.5 182 427 152T 854 177L 854 0 Z;M0 0L 0 167Q 213.5 182 427 162T 854 152L 854 0 Z;M0 0L 0 187Q 213.5 157 427 187T 854 152L 854 0 Z;M0 0L 0 142Q 213.5 182 427 152T 854 177L 854 0 Z">
+        </animate>
+      </path>
+      <path d="" fill="url(#linear)" opacity="0.4" >
+        <animate
+          attributeName="d"
+          dur="20s"
+          repeatCount="indefinite"
+          keyTimes="0;0.333;0.667;1"
+          calcmod="spline"
+          keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1"
+          begin="-10s"
+          values="M0 0L 0 157Q 213.5 202 427 172T 854 182L 854 0 Z;M0 0L 0 172Q 213.5 142 427 142T 854 162L 854 0 Z;M0 0L 0 167Q 213.5 147 427 172T 854 187L 854 0 Z;M0 0L 0 157Q 213.5 202 427 172T 854 182L 854 0 Z">
+        </animate>
+      </path>
+    </g>
+                
+     
+    <text text-anchor="middle" alignment-baseline="middle" x="50%" y="50%" class="text" style="fill:#f7f5f5;" stroke="#none" stroke-width="1" >Hi, I'm Jamila HajAhmad 👋</text>
+                 
+            </svg>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jamilahajahmad&label=Profile%20views&color=0e75b6&style=flat" alt="jamilahajahmad" /> </p>
 
