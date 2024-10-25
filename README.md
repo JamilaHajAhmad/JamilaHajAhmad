@@ -1,4 +1,4 @@
-<img src="https://camo.githubusercontent.com/c01ce63b61cb98b39488f49adf6ed038aab6e53be11327b7f45622d0c10b241a/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3232322673656374696f6e3d68656164657226746578743d48692c25323049276d2532304d6f68616d6d616425323041626f686173616e2125323025463025394625393125384226666f6e7453697a653d3435" alt="Header" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi,%20I'm%20Jamila%20HajAhmad👋&fontSize=45&animation=fadeIn" style="max-width: 100%;">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi,%20I'm%20Jamila%20HajAhmad👋&fontSize=45&animation=fadeIn">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jamilahajahmad&label=Profile%20views&color=0e75b6&style=flat" alt="jamilahajahmad" /> </p>
 
