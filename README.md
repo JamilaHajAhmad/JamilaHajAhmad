@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jamilahajahmad" alt="jamilahajahmad" /></a> </p>
 
-- 🔭 I’m currently working on **the final project of GSG Web Development Course**
+- 🔭 Currently working on **the final project of GSG Web Development Course**
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 Currently learning **React.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/JamilaHajAhmad](https://github.com/JamilaHajAhmad)
 
-- 📫 How to reach me **jamilasaed03@gmail.com**
+- 📫 To reach me **jamilasaed03@gmail.com**
 
 - 📄 Know about my experiences [https://flowcv.com/resume/6kt4g6h98v](https://flowcv.com/resume/6kt4g6h98v)
 
