@@ -5,7 +5,7 @@
 ![ProfileView](https://komarev.com/ghpvc/?username=JamilaHajAhmad&label=Profile%20views&color=blueviolet)
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jamilahajahmad" alt="jamilahajahmad" /></a> </p>
 
-- 🔭 Currently working on **the final project of GSG Web Development Course**
+- 🔭 Currently working on **Data Analyst Nanodegree**
 
 - 🌱 Currently learning **React.js**
 
