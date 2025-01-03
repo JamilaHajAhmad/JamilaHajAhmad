@@ -3,7 +3,7 @@
 </div>
 
 ![ProfileView](https://komarev.com/ghpvc/?username=JamilaHajAhmad&label=Profile%20views&color=blueviolet)
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jamilahajahmad" alt="jamilahajahmad" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jamilahajahmad&title=-Reviews" alt="jamilahajahmad" /></a> </p>
 
 - 🔭 Currently working on **Data Analyst Nanodegree**
 
