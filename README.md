@@ -79,7 +79,7 @@
   	<img width=545 src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JamilaHajAhmad&theme=dark&hide_border=true" />
   	<img height=171 src="https://github-readme-stats.vercel.app/api?username=JamilaHajAhmad&theme=dark&hide_border=true" />
     	&ensp;
-  	<img height=171 src="https://github-readme-streak-stats.herokuapp.com/?user=JamilaHajAhmad&theme=dark&hide_border=true" />
+  	<img height=171 src="https://streak-stats.demolab.com?user=JamilaHajAhmad&theme=dark&hide_border=true" />
 </div>
 
 <hr/>
@@ -87,7 +87,7 @@
 ### Problem Solving & Competitive Programming Statistics 📈
 <div align="center">
       	&ensp;
-	<img height=300 src="https://leetcode.card.workers.dev/Jamila03?theme=Dark&font=baloo&extension=activity&border_color=#FFF" />
+	<img height=300 src="https://leetcard.jacoblin.cool/Jamila03?theme=dark&font=baloo&border=FFF" />
 </div>
 
 
