@@ -10,11 +10,11 @@
 
 - 🌱 Currently learning **React.js**
 
-- 👨‍💻 All of my projects are available at [https://github.com/JamilaHajAhmad](https://github.com/JamilaHajAhmad)
+- 👨‍💻 All of my projects are available at **[https://github.com/JamilaHajAhmad](https://github.com/JamilaHajAhmad)**
 
 - 📫 To reach me **jamilasaed03@gmail.com**
 
-- 📄 Know about my experiences [https://flowcv.com/resume/6kt4g6h98v](https://flowcv.com/resume/6kt4g6h98v)
+- 📄 Know about my experiences **[https://flowcv.com/resume/6kt4g6h98v](https://flowcv.com/resume/6kt4g6h98v)**
 
 - ⚡ Fun fact **My code might run on caffeine, but my creativity runs on dessert🍰🍩**
 <hr/>
