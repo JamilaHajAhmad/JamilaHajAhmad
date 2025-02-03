@@ -2,7 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Arima&weight=500&size=25&pause=1000&color=F760F4&center=true&vCenter=true&width=435&lines=👋🏻+Hi%2C+I'm+Jamila+HajAhmad...;Software+Engineer...;Front-end+Developer..." alt="Typing SVG" />
 </div>
 
-![ProfileView](https://komarev.com/ghpvc/?username=JamilaHajAhmad&label=Profile%20views&color=blueviolet)
 [![committers.top badge](https://user-badge.committers.top/palestine/JamilaHajAhmad.svg)](https://user-badge.committers.top/palestine/JamilaHajAhmad)
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jamilahajahmad&title=-Reviews" alt="jamilahajahmad" /></a> </p>
 
