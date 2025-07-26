@@ -5,15 +5,11 @@
 [![committers.top badge](https://user-badge.committers.top/palestine/JamilaHajAhmad.svg)](https://user-badge.committers.top/palestine/JamilaHajAhmad)
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jamilahajahmad&title=-Reviews" alt="jamilahajahmad" /></a> </p>
 
-- 🔭 Currently working on **My Graduation Project**
-
-- 🌱 Currently learning **React.js**
-
-- 👨‍💻 All of my projects are available at **[https://github.com/JamilaHajAhmad](https://github.com/JamilaHajAhmad)**
+- 👨‍💻 All of my projects are available **Here**
 
 - 📫 To reach me **jamilasaed03@gmail.com**
 
-- 📄 Know about my experiences **[https://flowcv.com/resume/6kt4g6h98v](https://flowcv.com/resume/6kt4g6h98v)**
+- 📄 Know about my experiences **[https://flowcv.com/resume/nnktip1jnm4c](https://flowcv.com/resume/nnktip1jnm4c)**
 
 - ⚡ Fun fact **My code might run on caffeine, but my creativity runs on dessert🍰🍩**
 <hr/>
